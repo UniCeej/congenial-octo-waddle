@@ -1,1 +1,11 @@
+body {
+  background-color: gray;
+}
 
+h1 {
+  color: white;
+}
+
+p {
+  color: 2px dashed black;
+}
