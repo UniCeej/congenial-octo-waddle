@@ -3,16 +3,16 @@ body {
 }
 
 header {
-  color: #004de6;
+  color: linear-gradient(#004de6,#001a33);
 }
 
 footer {
-  color #99bbff;
+  color: linear-gradient(#99bbff,#001a33);
   border: 3px dotted #004de6;
 }
 
 p {
-  color: #004de6;
+  color: linear-gradient(#004de6,#001a33);
   border: 2px dashed #0044cc;
 }
 
