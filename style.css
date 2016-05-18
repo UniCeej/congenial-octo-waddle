@@ -7,8 +7,10 @@ h1 {
 }
 
 h6 {
-  color #99bbff
+  color #99bbff;
+  border: 3px dotted #004de6;
 }
+
 p {
   color: #004de6;
   border: 2px dashed #0044cc;
