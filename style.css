@@ -1,12 +1,12 @@
 body {
-  background-color: gray;
+  background-color: #ff99ff;
 }
 
 h1 {
-  color: white;
+  color: #ff00ff;
 }
 
 p {
-  color: #ff99ff;
-  border: 2px dashed black;
+  color: #ff1aff;
+  border: 2px dashed #5c5c8a;
 }
