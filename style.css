@@ -1,9 +1,11 @@
 body {
   background: linear-gradient(#b3d9ff,#00264d);
+  text-align: center;
 }
 
 header {
   color: linear-gradient(#004de6,#001a33);
+  text-align: center;
 }
 
 footer {
@@ -14,8 +16,4 @@ footer {
 p {
   color: linear-gradient(#004de6,#001a33);
   border: 2px dashed #0044cc;
-}
-
-h1 {
-  text-align: center;
 }
