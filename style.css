@@ -1,12 +1,12 @@
 body {
-  background-color: #6699ff;
+  background: linear-gradient(#6699ff, #66ff66);
 }
 
-h1 {
+header {
   color: #004de6;
 }
 
-h6 {
+footer {
   color #99bbff;
   border: 3px dotted #004de6;
 }
@@ -15,3 +15,4 @@ p {
   color: #004de6;
   border: 2px dashed #0044cc;
 }
+
