@@ -5,15 +5,17 @@ body {
 
 header {
   color: #2049BC
-  text-align: center;
+  text-align: center
+  font-family: "American Typewriter";
 }
 
 footer {
   color: #2049BC
   text-align: left;
+  font-family: "American Typewriter";
 }
 
 p {
   color: linear-gradient(#004de6,#001a33);
-  font-family: "Comic", sans-serif;
+  font-family: "American Typewriter";
 }
