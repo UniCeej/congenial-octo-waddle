@@ -1,6 +1,6 @@
 body {
   background: linear-gradient(#b3d9ff,#00264d);
-  text-align: center;
+  text-align: justify;
 }
 
 header {
@@ -11,7 +11,7 @@ header {
 
 footer {
   color: #2049BC
-  text-align: left;
+  text-align: justify;
   font-family: "American Typewriter";
 }
 
