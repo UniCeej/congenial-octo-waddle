@@ -4,16 +4,15 @@ body {
 }
 
 header {
-  color: linear-gradient(#004de6,#001a33);
+  color: #2049BC
   text-align: center;
 }
 
 footer {
-  color: linear-gradient(#99bbff,#001a33);
-  border: 3px dotted #004de6;
+  color: #2049BC
+  text-align: left;
 }
 
 p {
   color: linear-gradient(#004de6,#001a33);
-  border: 2px dashed #0044cc;
 }
