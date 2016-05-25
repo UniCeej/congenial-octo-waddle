@@ -15,5 +15,5 @@ footer {
 
 p {
   color: linear-gradient(#004de6,#001a33);
-  font-family: "Comic Sans";
+  font-family: "Comic", sans-serif;
 }
