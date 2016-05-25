@@ -23,4 +23,5 @@ p {
 #Title {
   color: #605e00;
   font-family: "Comic", sans-serif;
+  background: linear-gradient(#454545,#35465c);
 }
