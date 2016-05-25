@@ -4,13 +4,13 @@ body {
 }
 
 header {
-  color: #2049BC
-  text-align: center
+  color: #2049BC;
+  text-align: center;
   font-family: "American Typewriter";
 }
 
 footer {
-  color: #2049BC
+  color: #2049BC;
   text-align: justify;
   font-family: "American Typewriter";
 }
